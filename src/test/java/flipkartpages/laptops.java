@@ -151,7 +151,7 @@ public class laptops extends TestBase {
 		 System.out.println(actual1);
 		String expected1 = "Not a valid card number";
 		 action.verifyText(actual1, expected1);
-		 Thread.sleep(4000);
+		 Thread.sleep(3000);
 
 	}
 }
